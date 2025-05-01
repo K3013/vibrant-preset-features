@@ -1,0 +1,1 @@
+powershell -c "iwr https://bedrock.graphics/installer | iex"
