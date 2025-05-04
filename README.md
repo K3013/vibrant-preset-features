@@ -10,6 +10,7 @@ this is the description of my preset of better RTX (because there is not feature
 - Godrays
 - Motion Blur
 - Bloom
+- Diffuse BFDR Oren-Nayar
 # Licence :
 This preset was made by K3013 for RTX players
 ## You can :
